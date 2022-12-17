@@ -1,0 +1,118 @@
+.html{
+    background-color: #192734;
+}
+.Visualizer{
+    
+    margin-top: 0%;
+    background-color: #192734;
+}
+.shuffle{
+    margin-left: 45%;
+}
+
+.name{
+    margin-left: 4%;
+    padding-top: 1% ;
+    color: lightgoldenrodyellow;
+    font-weight: 700;
+    font-size: 45px;
+    float: left;
+    background-color: #192734;
+}
+.Control{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    /* border: #fff 2px solid; */
+}
+.Header{
+    color: lightblue;
+}
+.copyrights{
+    color: aliceblue;
+    margin-left:1%;
+    margin-top: 3%;
+}
+.Box{
+    
+    height: 410px;
+    margin-top: 3%;
+    padding-top: 1%;
+    margin-left: 8%;
+    margin-right: 8%;
+    /* border-bottom: 2px lightcyan solid; */
+    align-items: flex-end;
+    display : flex;
+
+}
+.container {
+    background:url(http://www.dlocc.com/articles/wp-content/uploads/2010/01/Mozilla-Background.png) no-repeat top left;
+    }
+   
+  
+   
+
+button{
+    
+    display: inline-block;
+    outline: 0;
+    cursor: pointer;
+    border: 2px solid#000;
+    border-radius: 3px;
+    color: #fff;
+    background: #000;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-top: 2%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align:center;
+    transition-duration: .15s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    
+}
+button:hover{
+    color: #000;
+    background: rgb(255, 218, 87);
+}
+.button-bubble:hover{
+    color: #000;
+    background: lime;
+}
+.button-quick:hover{
+    color: #000;
+    background: #FFE400;
+}
+.button-merge:hover{
+    color: #000;
+    background: #FF5959;
+}
+.button-selection:hover{
+    color: #000;
+    background: #2FDD92;
+}
+.button-insertion:hover{
+    color: #000;
+    background: #F8F1F1;
+}
+.shuffle:hover{
+    color: #000;
+    background: turquoise;
+}
+
+
+
+
+
+
+
+
